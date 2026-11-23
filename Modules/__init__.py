@@ -1,0 +1,1 @@
+# HARC Log Bridge modulok
