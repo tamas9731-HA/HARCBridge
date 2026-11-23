@@ -1,0 +1,3 @@
+[settings]
+forward_log11dx = false
+log_warning_disabled = false
